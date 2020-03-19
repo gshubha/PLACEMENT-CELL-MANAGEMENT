@@ -5,7 +5,7 @@ Languages
 HTML5
 CSS3
 JavaScript
-PHP (Baxckend Database Functions)
+PHP (Backend Database Functions)
 MySQL (Database)
 IDE & Tools
 Visual Studio Code (All Files Editing)
